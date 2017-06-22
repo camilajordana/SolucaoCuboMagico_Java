@@ -1,4 +1,4 @@
-//Autoras: Camila Jordana e Helora Dana
+//Autoras: Camila Jordana Ribeiro Teixeira
 
 public class Teste {
 /*
