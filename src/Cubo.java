@@ -1732,7 +1732,7 @@ public class Cubo {
             rightClock();
             topIClock();
             rightIClock();
-        } else if(matriz_right[0][0] == 2 && matriz_right[0][2] == 2 && matriz_front[0][2] == 2 && matriz_back[0][2] == 2){
+        } else if(matriz_left[0][0] == 2 && matriz_left[0][2] == 2 && matriz_front[0][2] == 2 && matriz_back[0][2] == 2){
             // 3º CASO
             // R U2 R2 U' R2 U' R2 U2 R
             rightClock();
